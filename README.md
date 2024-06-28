@@ -1,2 +1,2 @@
 # lasalle_javascript_2024_ross
-Ejercicios de javascript de la clase
+Mis ejercicios de javascript de la clase
